@@ -22,10 +22,3 @@ The website has a clean design and responsive layout to present my professional 
 - CSS3 – Styling and layout design
 
 ---
-
-🎯 Learning Objectives
-
-Building personal portfolio website
-HTML page structure
-CSS styling and layout
-Responsive web design basics
