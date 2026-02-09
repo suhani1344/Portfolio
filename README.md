@@ -23,7 +23,7 @@ The website has a clean design and responsive layout to present my professional 
 
 ---
 
-##🎯 Learning Objectives
+🎯 Learning Objectives
 
 Building personal portfolio website
 HTML page structure
